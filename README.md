@@ -4,7 +4,7 @@ This is the repository for Project 1 / Team 2 (Jordan Schafer and Steve Freeland
 
 Our project involved the analysis of consumer reviews of beer brands to discover insights around correlation between overall and various category review scores.
 
-Project work included the gathering of relevant data, cleaning of data, generation of multiple scatter plots, conducting an ANOVA exercise, and generation of a heatmap. Further detail around each step follows:
+Project work included the gathering of relevant data, cleaning of data, generation of multiple scatter plots, conducting an ANOVA exercise, and generation of a heatmap. Further detail around each step follows.
 
 Data:
 Data was gathered from kaggle.com (specifically Beer Reviews) as well as the Google Maps Places / Geolocations API. 
@@ -22,8 +22,8 @@ Is there a correlation between category review and Overall Review score? Several
   Is there a correlation between Taste and Overall Review?
   Is there a correlation between ABV (Alcohol by Volume) and Overall Review?
   Is there a correlation between Overall Review score and the number of reviews performed?
-Perform ANOVA comparing most common beer types to see if significant differences exist across Overall Review score
-Create heatmap of breweries (Where can I get a beer?)
+Perform ANOVA comparing most common beer types to see if significant differences exist across Overall Review score.
+Create heatmap of breweries to answer the question of Where can I get a highly rated beer?
 
 Conclusions and Learnings:
 Aroma, Appearance, Palate, and Taste highly correlate with Overall Review scores.
@@ -32,16 +32,16 @@ There is no linear correlation between Number of Reviews and Overall Review scor
 The most influential factor across these factors appears to be Aroma.  
 
 Limitations of Data Set:
-Results based on user response data
-Only analyzed beer with >50 ratings
-No sales data available
-No pricing data available
-No IBU ratings included in data set
+Results based on user response data.
+Only analyzed beer with >50 ratings.
+No sales data available.
+No pricing data available.
+No IBU ratings included in data set.
 The inclusion of such data would likely produce even more meaningful results.
 
 ANOVA - Do Beer Styles make a significant difference in Overall Review scores?
-Null Hypothesis: Beer styles do not make a significant difference in Overall Review score
-Alternative Hypothesis: Beer styles do make a significant difference in Overall Review score
-For ANOVA test we concentrated on the five most common styles
-Running the ANOVA function yields a p-value of 0.00017
-This is evidence that the alternative hypothesis of Beer styles do make a significant difference in Overall Review score is true
+Null Hypothesis: Beer styles do not make a significant difference in Overall Review score.
+Alternative Hypothesis: Beer styles do make a significant difference in Overall Review score.
+For ANOVA test we concentrated on the five most common styles.
+Running the ANOVA function yields a p-value of 0.00017.
+This is evidence that the alternative hypothesis of Beer styles do make a significant difference in Overall Review score is true.
