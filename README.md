@@ -33,10 +33,10 @@ The most influential factor across these factors appears to be Aroma.
 Limitations of Data Set:
 Results based on user response data.
 Only analyzed beer with >50 ratings.
+Beer Advocate is a U.S. site, skewing the data set toward primarily younger American users.
 No sales data available.
 No pricing data available.
 No IBU ratings included in data set.
-The inclusion of such data would likely produce even more meaningful results.
 
 ANOVA - Do Beer Styles make a significant difference in Overall Review scores?
 Null Hypothesis: Beer styles do not make a significant difference in Overall Review score.
