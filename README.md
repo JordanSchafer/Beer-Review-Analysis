@@ -13,7 +13,6 @@ Grouping of data by beer_beerid, finding mean review scores and review count for
 
 While this project focused on U.S. brewery data, we did conduct a brief analysis around rest of world data.
 
-Multiple questions were addressed in this study:
 What is the best beer in each review category?
 Is there a correlation between category review and Overall Review score? Several sub-questions were addressed:
   Is there a correlation between Aroma and Overall Review?
