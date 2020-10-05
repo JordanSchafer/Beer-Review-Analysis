@@ -2,6 +2,8 @@
 
 This is the repository for Project 1 / Team 2 (Jordan Schafer and Steve Freeland).
 
+Link to presentation slides: https://drive.google.com/drive/folders/1gTSLtWQzpgwuH_Tsf6B00SV-_lxknKlh?usp=sharing
+
 Our project involved the analysis of consumer reviews of beer brands to discover insights around correlation between overall and various category review scores.
 
 Project work included the gathering of relevant data, cleaning of data, generation of multiple scatter plots, conducting an ANOVA exercise, and generation of a heatmap. Further detail around each step follows.
