@@ -2,7 +2,7 @@
 
 This is the repository for Project 1 / Team 2 (Jordan Schafer and Steve Freeland).
 
-Link to presentation slides: https://drive.google.com/drive/folders/1gTSLtWQzpgwuH_Tsf6B00SV-_lxknKlh?usp=sharing
+Link to presentation slides: https://drive.google.com/drive/folders/1gTSLtWQzpgwuH_Tsf6B00SV-_lxknKlh 
 
 Our project involved the analysis of consumer reviews of beer brands to discover insights around correlation between overall and various category review scores.
 
@@ -44,5 +44,7 @@ ANOVA - Do Beer Styles make a significant difference in Overall Review scores?
 Null Hypothesis: Beer styles do not make a significant difference in Overall Review score.
 Alternative Hypothesis: Beer styles do make a significant difference in Overall Review score.
 For ANOVA test we concentrated on the five most common styles.
-Running the ANOVA function yields a p-value of 0.00017.
+Running the ANOVA function after removing the outliers yields a p-value of 2.5e-07.
 This is evidence that the alternative hypothesis of Beer styles do make a significant difference in Overall Review score is true.
+But that is only using the predetermined types. If we combined all the Pilsners together, all the IPAs together, all the Stouts together, all the Pale Ales together, and all the Porters together will we see a different result?
+Running the ANOVA function after removing the outliers yields a p-value of 1.91e-73. Again, this is evidence that the alternative hypothesis: Beer styles do make a significant difference in Overall Review score is true.
