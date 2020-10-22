@@ -1,4 +1,4 @@
-# Team-2-repo
+# Beer Review Analysis
 
 This is the repository for Project 1 / Team 2 (Jordan Schafer and Steve Freeland).
 
