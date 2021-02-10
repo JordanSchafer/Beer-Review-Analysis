@@ -1,6 +1,6 @@
 # Beer-Review-Analysis
 
-This is the repository for Project 1 / Team 2 (Jordan Schafer and Steve Freeland).
+This is the repository for our team of Jordan Schafer and Steve Freeland.
 
 Link to presentation slides: https://drive.google.com/drive/folders/1gTSLtWQzpgwuH_Tsf6B00SV-_lxknKlh 
 
